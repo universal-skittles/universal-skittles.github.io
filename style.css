@@ -1,0 +1,16 @@
+#div1{
+    background-color: magenta;
+    width: 1000px;
+    height: 100px;
+    background-image: linear-gradient(magenta, blue);
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%
+}
+image{
+    align-content: center
+}
+p{
+    text-align: center
+}
